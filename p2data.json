@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "question": "What are the general admission requirements?",
+        "answer": "To be considered for admission, students typically need to submit transcripts, standardized test scores, letters of recommendation, and a personal statement."
+      },
+      {
+        "question": "What is the application deadline?",
+        "answer": "The application deadline for the upcoming academic year is [insert specific date]. It's essential to submit all required documents before this date to be considered for admission."
+      },
+      {
+        "question": "Can I apply as an international student?",
+        "answer": "Yes, the university accepts applications from international students. Make sure to check the specific requirements for international applicants and submit all necessary documentation."
+      },
+      {
+        "question": "What is the admission interview process?",
+        "answer": "The admission interview is not mandatory for all applicants, but it can be a valuable opportunity to showcase your qualities. If selected, you will be contacted to schedule an interview, either in person or through video conferencing."
+      },
+      {
+        "question": "Are there any scholarships available?",
+        "answer": "Yes, the university offers various scholarships based on academic achievements, extracurricular activities, and other criteria. Be sure to check the scholarship options and deadlines for application."
+      },
+      {
+        "question": "How can I check my application status?",
+        "answer": "You can check your application status by logging into the online application portal. Once logged in, you will find information about the status of each component of your application."
+      }
+    ]
+  }
